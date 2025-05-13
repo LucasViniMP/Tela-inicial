@@ -122,10 +122,10 @@
       <h2>Sttudy</h2>
       <nav>
         <ul>
-          <li><a href="#">Início</a></li>
-          <li><a href="#">Prazo</a></li>
-          <li><a href="#">Atividades</a></li>
-          <li><a href="#">Perfil</a></li>
+            <li><a href="inicio.html">Início</a></li>
+            <li><a href="prazo.html">Prazo</a></li>
+            <li><a href="atividades.html">Atividades</a></li>
+            <li><a href="perfil.html">Perfil</a></li>
         </ul>
       </nav>
     </aside>
